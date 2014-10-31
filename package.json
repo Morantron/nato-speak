@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "Nato speak. This is so lame.",
   "bin": {
-    "nato-speak": "bin/nato-speak",
-  }
+    "nato-speak": "bin/nato-speak"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
